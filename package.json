@@ -1,0 +1,19 @@
+{
+  "author": "Firebase.co <npm@firebase.co> (http://www.firebase.co/)",
+  "name": "mongoose-attachments-knox",
+  "description": "S3 Storage Provider for mongoose-attachments backed by Knox",
+  "version": "1.0.0",
+  "homepage": "https://github.com/firebaseco/mongoose-attachments-knox",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firebaseco/mongoose-attachments-knox.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "knox": "0.0.x",
+    "mongoose-attachments": "0.0.x"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
