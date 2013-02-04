@@ -2,6 +2,7 @@
   "author": "Firebase.co <npm@firebase.co> (http://www.firebase.co/)",
   "name": "mongoose-attachments-knox",
   "description": "S3 Storage Provider for mongoose-attachments backed by Knox",
+  "keywords": ["mongoose", "s3", "imagemagick", "uploads", "attachments"],
   "version": "1.0.0",
   "homepage": "https://github.com/firebaseco/mongoose-attachments-knox",
   "repository": {
